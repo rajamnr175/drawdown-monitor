@@ -1,0 +1,19 @@
+{
+ "shortName": "CoreWeave, Inc.",
+ "longName": "CoreWeave, Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 21972525056,
+ "trailingPE": null,
+ "forwardPE": -22.190271,
+ "priceToBook": 5.438403,
+ "revenueGrowth": 1.682,
+ "earningsGrowth": null,
+ "trailingEps": -4.74,
+ "forwardEps": -1.78051,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2026-11-11"
+ ]
+}

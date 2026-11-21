@@ -1,0 +1,19 @@
+{
+ "shortName": "Apple Inc.",
+ "longName": "Apple Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 4978144444416,
+ "trailingPE": 38.146996,
+ "forwardPE": 32.400333,
+ "priceToBook": 44.41333,
+ "revenueGrowth": 0.117,
+ "earningsGrowth": 0.141,
+ "trailingEps": 8.98,
+ "forwardEps": 10.57273,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2027-01-29"
+ ]
+}

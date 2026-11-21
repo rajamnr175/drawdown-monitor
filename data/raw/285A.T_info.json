@@ -1,0 +1,19 @@
+{
+ "shortName": "KIOXIA HOLDINGS CORPORATION",
+ "longName": "Kioxia Holdings Corporation",
+ "currency": "JPY",
+ "financialCurrency": "JPY",
+ "marketCap": 11677859840000,
+ "trailingPE": 9.791756,
+ "forwardPE": null,
+ "priceToBook": 3.986357,
+ "revenueGrowth": 4.532,
+ "earningsGrowth": 32.48,
+ "trailingEps": 746.24,
+ "forwardEps": null,
+ "quoteType": "EQUITY",
+ "exchange": "JPX",
+ "earningsDates": [
+  "2027-01-28"
+ ]
+}

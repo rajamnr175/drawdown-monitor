@@ -1,0 +1,19 @@
+{
+ "shortName": "Amazon.com, Inc.",
+ "longName": "Amazon.com, Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 2668898811904,
+ "trailingPE": 19.953114,
+ "forwardPE": 22.589987,
+ "priceToBook": 4.348715,
+ "revenueGrowth": 0.121,
+ "earningsGrowth": -0.031,
+ "trailingEps": 12.37,
+ "forwardEps": 10.92608,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2026-10-30"
+ ]
+}

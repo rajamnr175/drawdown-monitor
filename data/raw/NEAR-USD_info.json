@@ -1,0 +1,16 @@
+{
+ "shortName": "NEAR Protocol USD",
+ "longName": "NEAR Protocol USD",
+ "currency": "USD",
+ "financialCurrency": null,
+ "marketCap": 3722110720,
+ "trailingPE": null,
+ "forwardPE": null,
+ "priceToBook": null,
+ "revenueGrowth": null,
+ "earningsGrowth": null,
+ "trailingEps": null,
+ "forwardEps": null,
+ "quoteType": "CRYPTOCURRENCY",
+ "exchange": "CCC"
+}

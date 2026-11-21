@@ -1,0 +1,19 @@
+{
+ "shortName": "Oracle Corporation",
+ "longName": "Oracle Corporation",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 315480899584,
+ "trailingPE": 15.860501,
+ "forwardPE": 9.15017,
+ "priceToBook": 4.9496183,
+ "revenueGrowth": 0.296,
+ "earningsGrowth": 0.545,
+ "trailingEps": 6.38,
+ "forwardEps": 11.05881,
+ "quoteType": "EQUITY",
+ "exchange": "NYQ",
+ "earningsDates": [
+  "2026-12-15"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "shortName": "Cerebras Systems Inc.",
+ "longName": "Cerebras Systems Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 20089088000,
+ "trailingPE": null,
+ "forwardPE": 44.48522,
+ "priceToBook": 2.187963,
+ "revenueGrowth": 0.553,
+ "earningsGrowth": null,
+ "trailingEps": -5.17,
+ "forwardEps": 1.85837,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2026-11-13"
+ ]
+}

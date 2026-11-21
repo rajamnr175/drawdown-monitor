@@ -1,0 +1,19 @@
+{
+ "shortName": "TAIWAN SEMICONDUCTOR MANUFACTUR",
+ "longName": "Taiwan Semiconductor Manufacturing Company Limited",
+ "currency": "TWD",
+ "financialCurrency": "TWD",
+ "marketCap": 51864733220864,
+ "trailingPE": 20.519135,
+ "forwardPE": 13.368712,
+ "priceToBook": 7.4114704,
+ "revenueGrowth": 0.509,
+ "earningsGrowth": 0.687,
+ "trailingEps": 97.47,
+ "forwardEps": 149.60304,
+ "quoteType": "EQUITY",
+ "exchange": "TAI",
+ "earningsDates": [
+  "2027-01-14"
+ ]
+}

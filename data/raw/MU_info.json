@@ -1,0 +1,19 @@
+{
+ "shortName": "Micron Technology, Inc.",
+ "longName": "Micron Technology, Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 672642433024,
+ "trailingPE": 7.998251,
+ "forwardPE": 2.846877,
+ "priceToBook": 4.8590927,
+ "revenueGrowth": 3.793,
+ "earningsGrowth": 10.595,
+ "trailingEps": 74.33,
+ "forwardEps": 208.82883,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2026-12-18"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "shortName": "SamsungElec",
+ "longName": "Samsung Electronics Co., Ltd.",
+ "currency": "KRW",
+ "financialCurrency": "KRW",
+ "marketCap": 1192333924106240,
+ "trailingPE": null,
+ "forwardPE": 2.3458576,
+ "priceToBook": null,
+ "revenueGrowth": 1.269,
+ "earningsGrowth": 5.258,
+ "trailingEps": null,
+ "forwardEps": null,
+ "quoteType": "EQUITY",
+ "exchange": "KSC",
+ "earningsDates": [
+  "2027-01-27"
+ ]
+}

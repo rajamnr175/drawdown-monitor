@@ -1,0 +1,16 @@
+{
+ "shortName": "Zcash USD",
+ "longName": "Zcash USD",
+ "currency": "USD",
+ "financialCurrency": null,
+ "marketCap": 13239052288,
+ "trailingPE": null,
+ "forwardPE": null,
+ "priceToBook": null,
+ "revenueGrowth": null,
+ "earningsGrowth": null,
+ "trailingEps": null,
+ "forwardEps": null,
+ "quoteType": "CRYPTOCURRENCY",
+ "exchange": "CCC"
+}

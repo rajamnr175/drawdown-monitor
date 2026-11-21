@@ -1,0 +1,16 @@
+{
+ "shortName": "Ethereum USD",
+ "longName": "Ethereum USD",
+ "currency": "USD",
+ "financialCurrency": null,
+ "marketCap": 204227198976,
+ "trailingPE": null,
+ "forwardPE": null,
+ "priceToBook": null,
+ "revenueGrowth": null,
+ "earningsGrowth": null,
+ "trailingEps": null,
+ "forwardEps": null,
+ "quoteType": "CRYPTOCURRENCY",
+ "exchange": "CCC"
+}

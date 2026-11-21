@@ -1,0 +1,16 @@
+{
+ "shortName": "Bitcoin USD",
+ "longName": "Bitcoin USD",
+ "currency": "USD",
+ "financialCurrency": null,
+ "marketCap": 1192109146112,
+ "trailingPE": null,
+ "forwardPE": null,
+ "priceToBook": null,
+ "revenueGrowth": null,
+ "earningsGrowth": null,
+ "trailingEps": null,
+ "forwardEps": null,
+ "quoteType": "CRYPTOCURRENCY",
+ "exchange": "CCC"
+}

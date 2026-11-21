@@ -1,0 +1,19 @@
+{
+ "shortName": "Meta Platforms, Inc.",
+ "longName": "Meta Platforms, Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 1433642336256,
+ "trailingPE": 19.134768,
+ "forwardPE": 15.720743,
+ "priceToBook": 5.2627926,
+ "revenueGrowth": 0.261,
+ "earningsGrowth": 2.648,
+ "trailingEps": 29.31,
+ "forwardEps": 35.67516,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2027-01-28"
+ ]
+}

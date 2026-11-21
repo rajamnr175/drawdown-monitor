@@ -1,0 +1,19 @@
+{
+ "shortName": "SK hynix",
+ "longName": "SK hynix Inc.",
+ "currency": "KRW",
+ "financialCurrency": "KRW",
+ "marketCap": 784857894486016,
+ "trailingPE": null,
+ "forwardPE": 2.0691168,
+ "priceToBook": null,
+ "revenueGrowth": 3.279,
+ "earningsGrowth": 2.051,
+ "trailingEps": null,
+ "forwardEps": null,
+ "quoteType": "EQUITY",
+ "exchange": "KSC",
+ "earningsDates": [
+  "2027-01-27"
+ ]
+}

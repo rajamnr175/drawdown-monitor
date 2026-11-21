@@ -1,0 +1,16 @@
+{
+ "shortName": "Hyperliquid USD",
+ "longName": "Hyperliquid USD",
+ "currency": "USD",
+ "financialCurrency": null,
+ "marketCap": 15178006528,
+ "trailingPE": null,
+ "forwardPE": null,
+ "priceToBook": null,
+ "revenueGrowth": null,
+ "earningsGrowth": null,
+ "trailingEps": null,
+ "forwardEps": null,
+ "quoteType": "CRYPTOCURRENCY",
+ "exchange": "CCC"
+}

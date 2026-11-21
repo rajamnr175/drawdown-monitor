@@ -1,0 +1,19 @@
+{
+ "shortName": "Nebius Group N.V.",
+ "longName": null,
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 23815892992,
+ "trailingPE": null,
+ "forwardPE": -26.710333,
+ "priceToBook": 1.9365518,
+ "revenueGrowth": 5.713,
+ "earningsGrowth": null,
+ "trailingEps": -0.26,
+ "forwardEps": -3.04414,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2027-02-11"
+ ]
+}

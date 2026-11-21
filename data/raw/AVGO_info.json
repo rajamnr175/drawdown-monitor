@@ -1,0 +1,19 @@
+{
+ "shortName": "Broadcom Inc.",
+ "longName": "Broadcom Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 1453140738048,
+ "trailingPE": 38.877396,
+ "forwardPE": 15.72798,
+ "priceToBook": 14.577627,
+ "revenueGrowth": 0.855,
+ "earningsGrowth": 2.153,
+ "trailingEps": 7.83,
+ "forwardEps": 19.35468,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2026-12-10"
+ ]
+}

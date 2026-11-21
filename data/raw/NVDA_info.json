@@ -1,0 +1,19 @@
+{
+ "shortName": "NVIDIA Corporation",
+ "longName": "NVIDIA Corporation",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 3031172907008,
+ "trailingPE": 13.483351,
+ "forwardPE": 7.5596437,
+ "priceToBook": 11.347857,
+ "revenueGrowth": 1.032,
+ "earningsGrowth": 1.077,
+ "trailingEps": 9.31,
+ "forwardEps": 16.60528,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2026-11-18"
+ ]
+}

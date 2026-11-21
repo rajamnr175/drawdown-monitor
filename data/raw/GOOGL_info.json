@@ -1,0 +1,19 @@
+{
+ "shortName": "Alphabet Inc.",
+ "longName": "Alphabet Inc.",
+ "currency": "USD",
+ "financialCurrency": "USD",
+ "marketCap": 3261475323904,
+ "trailingPE": 13.853265,
+ "forwardPE": 17.342186,
+ "priceToBook": 4.9451966,
+ "revenueGrowth": 0.247,
+ "earningsGrowth": -0.253,
+ "trailingEps": 19.15,
+ "forwardEps": 15.29738,
+ "quoteType": "EQUITY",
+ "exchange": "NMS",
+ "earningsDates": [
+  "2026-10-29"
+ ]
+}

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Drawdown &amp; Support Monitor</title>
+<meta name="description" content="How far 46 AI stocks, memory makers, new listings, crypto, indices and metals sit below their highs, where weekly support is, and what valuations say.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;560;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<nav class="nav" aria-label="Sections">
+  <div class="nav-pill">
+    <a href="#standing">Where it stands</a>
+    <a href="#correction">This correction</a>
+    <a href="#crashes">Crash weeks</a>
+    <a href="#levels">Support</a>
+    <a href="#winning">Who's winning</a>
+    <a href="#valuation">Valuation</a>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="hero-wash" aria-hidden="true"></div>
+  <div class="wrap hero-inner">
+    <p class="eyebrow">Market monitor · November 2026</p>
+    <h1>Drawdown &amp; Support Monitor</h1>
+    <p class="lede">How far 46 AI stocks, memory makers, new listings, crypto, indices and metals now sit below their highs after the AI-led sell-off. Also: where weekly support is, how this compares with 30 years of crash weeks, and what valuations say now.</p>
+    <p class="stamp" id="dataStamp">Loading data…</p>
+  </div>
+</header>
+<div class="grad-strip" aria-hidden="true"></div>
+
+<main>
+  <section id="standing" class="section">
+    <div class="wrap">
+      <div class="sec-bar"></div>
+      <h2>Where everything stands</h2>
+      <p class="sec-lede">The large figure is the percentage below the all-time high. For USD listings with a Hyperliquid perp it uses the live price; for everything else it uses the last weekly close. The bar runs from the 52-week low to the all-time high, and the notch marks the 200-week moving average.</p>
+
+      <div class="live-head">
+        <div class="live-meta">
+          <button class="btn" id="refreshBtn" type="button">Refresh prices</button>
+          <span class="muted" id="liveStamp">Live prices: connecting…</span>
+        </div>
+        <div class="seg" role="tablist" aria-label="View">
+          <button type="button" class="seg-btn on" data-view="tiles">Tiles</button>
+          <button type="button" class="seg-btn" data-view="table">Table</button>
+        </div>
+      </div>
+      <div class="strip" id="liveStrip" aria-label="Live Hyperliquid perp prices"></div>
+
+      <div id="tiles"></div>
+      <div id="overviewTable" class="table-wrap" hidden></div>
+    </div>
+  </section>
+
+  <section id="correction" class="section">
+    <div class="wrap">
+      <div class="sec-bar"></div>
+      <h2>What this correction looks like</h2>
+      <p class="sec-lede">Current distance below each asset's 12-month peak (weekly closes). Pick one to see its 15-year underwater chart and every 10%+ peak-to-trough drop since November 2011.</p>
+      <div class="card">
+        <div id="ddBars" class="dd-bars" role="tablist" aria-label="Choose asset"></div>
+      </div>
+      <div class="two-col">
+        <div class="card">
+          <h3 id="uwTitle">Underwater chart</h3>
+          <p class="muted small" id="uwSub"></p>
+          <div id="uwChart" class="chart"></div>
+        </div>
+        <div class="card">
+          <h3>Big corrections</h3>
+          <p class="muted small">Every 10%+ fall from a weekly-close peak, deepest first.</p>
+          <div id="epList" class="ep-list"></div>
+        </div>
+      </div>
+      <div class="insights" id="insights"></div>
+    </div>
+  </section>
+
+  <section id="crashes" class="section">
+    <div class="wrap">
+      <div class="sec-bar"></div>
+      <h2>Thirty years of crash weeks</h2>
+      <p class="sec-lede">How many times each asset has fallen by 15%, 20% or 25% in a single week, or by 20%, 25% or 30% in a single month, since 1996 or since it listed. Darker cells mean more drops. Hover a cell for the most recent and the worst one.</p>
+      <div class="card">
+        <div id="heatTable" class="table-wrap"></div>
+      </div>
+      <div class="card">
+        <div class="card-head">
+          <h3>Every big drop, over time</h3>
+          <label class="picker">Ticker
+            <select id="crashPick"></select>
+          </label>
+        </div>
+        <div class="legend" id="tlLegend"></div>
+        <div id="timeline" class="chart"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="levels" class="section">
+    <div class="wrap">
+      <div class="sec-bar"></div>
+      <h2>Weekly support and resistance</h2>
+      <p class="sec-lede">The four nearest levels below the last weekly close and the two nearest above. Levels come from weekly swing pivots (4 bars either side), the 50/100/200-week moving averages, the 52-week low, and 50/61.8/78.6% Fibonacci retracements of the last big up-leg. The line shows the past 18 months.</p>
+      <div class="filters" id="levelFilters"></div>
+      <div class="level-grid" id="levelGrid"></div>
+    </div>
+  </section>
+
+  <section id="winning" class="section">
+    <div class="wrap">
+      <div class="sec-bar"></div>
+      <h2>Who's winning</h2>
+      <p class="sec-lede" id="winLede">Sector and theme ETFs ranked by their 6-month return minus the S&amp;P 500's.</p>
+      <div>
+        <div class="card">
+          <h3>Sector &amp; theme ETFs vs the S&amp;P 500</h3>
+          <p class="muted small">6-month total return minus the S&amp;P 500's, in percentage points.</p>
+          <div id="etfChart" class="chart"></div>
+        </div>
+        <div>
+          <h3 class="side-h">Leading S&amp;P 500 stocks by theme</h3>
+          <div id="themes" class="themes"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="valuation" class="section">
+    <div class="wrap">
+      <div class="sec-bar"></div>
+      <h2>Valuation insights</h2>
+      <p class="sec-lede">Trailing P/E plotted against the distance below the all-time high. Bubble size shows market cap. Hollow rings use forward P/E because no trailing figure is available. P/E is on a log scale.</p>
+      <div class="card">
+        <div class="legend" id="scLegend"></div>
+        <div id="scatter" class="chart"></div>
+      </div>
+      <div class="val-cards" id="valCards"></div>
+      <div class="card summary" id="valSummary"></div>
+      <div class="card">
+        <h3>All companies</h3>
+        <div id="valTable" class="table-wrap"></div>
+      </div>
+      <p class="disclaimer">This is a screen, not financial advice. Figures come from Yahoo Finance via yfinance and can be stale, missing or wrong, especially for new listings and non-US companies. Check the filings before you act.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p><strong>Drawdown &amp; Support Monitor.</strong> Weekly and monthly bars from Yahoo Finance (via yfinance), refreshed every weekday after the US close. Live prices come from the Hyperliquid public info API, polled every 60 seconds.</p>
+    <p class="muted" id="missingNote"></p>
+  </div>
+</footer>
+
+<div class="tip" id="tip" role="tooltip" hidden></div>
+<script src="assets/app.js"></script>
+</body>
+</html>
