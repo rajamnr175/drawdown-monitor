@@ -5,15 +5,15 @@
  "financialCurrency": "USD",
  "marketCap": 1735524220928,
  "trailingPE": 555.6087,
- "forwardPE": 43.84719,
+ "forwardPE": 46.59906,
  "priceToBook": 9.816408,
  "revenueGrowth": 1.614,
  "earningsGrowth": null,
  "trailingEps": 0.23,
- "forwardEps": 2.91444,
+ "forwardEps": 2.74233,
  "quoteType": "EQUITY",
  "exchange": "NMS",
  "earningsDates": [
-  "2026-10-21"
+  "2026-10-20"
  ]
 }

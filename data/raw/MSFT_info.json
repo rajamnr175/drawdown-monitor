@@ -5,15 +5,15 @@
  "financialCurrency": "USD",
  "marketCap": 3598139523072,
  "trailingPE": 25.2881,
- "forwardPE": 20.020792,
+ "forwardPE": 20.018377,
  "priceToBook": 7.648182,
  "revenueGrowth": 0.188,
  "earningsGrowth": 0.323,
  "trailingEps": 19.16,
- "forwardEps": 24.20084,
+ "forwardEps": 24.20376,
  "quoteType": "EQUITY",
  "exchange": "NMS",
  "earningsDates": [
-  "2027-01-28"
+  "2027-01-27"
  ]
 }
