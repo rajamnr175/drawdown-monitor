@@ -3,10 +3,10 @@
  "longName": "Space Exploration Technologies Corp.",
  "currency": "USD",
  "financialCurrency": "USD",
- "marketCap": 1811034931200,
- "trailingPE": 579.78265,
- "forwardPE": 48.626534,
- "priceToBook": 10.243509,
+ "marketCap": 1708633620480,
+ "trailingPE": 547.0,
+ "forwardPE": 45.877045,
+ "priceToBook": 9.664311,
  "revenueGrowth": 1.614,
  "earningsGrowth": null,
  "trailingEps": 0.23,
@@ -14,6 +14,6 @@
  "quoteType": "EQUITY",
  "exchange": "NMS",
  "earningsDates": [
-  "2026-10-20"
+  "2027-02-09"
  ]
 }

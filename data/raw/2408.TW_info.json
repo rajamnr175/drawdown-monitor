@@ -3,10 +3,10 @@
  "longName": "Nanya Technology Corporation",
  "currency": "TWD",
  "financialCurrency": "TWD",
- "marketCap": 1066113630208,
- "trailingPE": 6.080283,
- "forwardPE": 2.4578693,
- "priceToBook": 2.5967696,
+ "marketCap": 962607448064,
+ "trailingPE": 5.4899645,
+ "forwardPE": 2.2192411,
+ "priceToBook": 2.344656,
  "revenueGrowth": 6.117,
  "earningsGrowth": 47.76,
  "trailingEps": 50.82,
@@ -14,6 +14,6 @@
  "quoteType": "EQUITY",
  "exchange": "TAI",
  "earningsDates": [
-  "2026-10-12"
+  "2027-01-18"
  ]
 }

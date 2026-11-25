@@ -3,17 +3,17 @@
  "longName": "Sandisk Corporation",
  "currency": "USD",
  "financialCurrency": "USD",
- "marketCap": 99841597440,
- "trailingPE": 0.08578499,
- "forwardPE": 2.4440978,
- "priceToBook": 5.572073,
+ "marketCap": 88731639808,
+ "trailingPE": 4.984015,
+ "forwardPE": 2.172129,
+ "priceToBook": 4.952036,
  "revenueGrowth": 3.779,
  "earningsGrowth": 69.096,
- "trailingEps": 1022.44,
+ "trailingEps": 15.64,
  "forwardEps": 35.88645,
  "quoteType": "EQUITY",
  "exchange": "NMS",
  "earningsDates": [
-  "2026-10-29"
+  "2027-02-15"
  ]
 }

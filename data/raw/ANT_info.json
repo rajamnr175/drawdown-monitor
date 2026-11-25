@@ -1,16 +1,16 @@
 {
  "shortName": "Anthropic, PBC",
- "longName": "Anthropic, PBC Class A Common Stock",
+ "longName": "Anthropic, PBC",
  "currency": "USD",
  "financialCurrency": "USD",
- "marketCap": 1171452592128,
+ "marketCap": 1094794870784,
  "trailingPE": null,
- "forwardPE": 303.2526,
- "priceToBook": -1.2861378,
+ "forwardPE": 159.87389,
+ "priceToBook": -1.2019753,
  "revenueGrowth": 11.269,
  "earningsGrowth": null,
- "trailingEps": -9.49,
- "forwardEps": 0.289,
+ "trailingEps": -8.87,
+ "forwardEps": 0.51231,
  "quoteType": "EQUITY",
  "exchange": "NMS"
 }

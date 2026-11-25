@@ -3,17 +3,17 @@
  "longName": "Bloom Energy Corporation",
  "currency": "USD",
  "financialCurrency": "USD",
- "marketCap": 49714671616,
- "trailingPE": 101.90909,
- "forwardPE": 31.583927,
- "priceToBook": 25.711008,
+ "marketCap": 46243667968,
+ "trailingPE": 94.793945,
+ "forwardPE": 29.213345,
+ "priceToBook": 23.915903,
  "revenueGrowth": 1.381,
  "earningsGrowth": null,
  "trailingEps": 1.65,
- "forwardEps": 5.32391,
+ "forwardEps": 5.35406,
  "quoteType": "EQUITY",
  "exchange": "NYQ",
  "earningsDates": [
-  "2026-10-22"
+  "2027-02-04"
  ]
 }
