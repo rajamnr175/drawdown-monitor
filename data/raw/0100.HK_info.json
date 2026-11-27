@@ -3,17 +3,14 @@
  "longName": "MiniMax Group Inc.",
  "currency": "HKD",
  "financialCurrency": "USD",
- "marketCap": 33771053056,
+ "marketCap": 36425240576,
  "trailingPE": null,
- "forwardPE": -5.082733,
- "priceToBook": 2.869945,
+ "forwardPE": -5.482204,
+ "priceToBook": 3.0955045,
  "revenueGrowth": 2.831,
  "earningsGrowth": null,
  "trailingEps": -46.5,
  "forwardEps": -19.025196,
  "quoteType": "EQUITY",
- "exchange": "HKG",
- "earningsDates": [
-  "2026-08-26"
- ]
+ "exchange": "HKG"
 }
